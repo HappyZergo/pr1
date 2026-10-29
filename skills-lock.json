@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "ex-ussr-kinship-research": {
+      "source": "DenisSergeevitch/ex-ussr-kinship-research",
+      "sourceType": "github",
+      "skillPath": "SKILL.md",
+      "computedHash": "bcda63383c0fd578c098d0e36b3f2b075f5fc38ef90832c9353067385b562277"
+    }
+  }
+}
